@@ -50,11 +50,11 @@ AFRAME.registerComponent("bin", {
 // b = !b;
 // console.log("clicked");
 
-// function story() {
-//   alert(
-//     "Oh..no! You started the washing machine and the key from the laundry is inside..."
-//   );
-//   alert(
-//     "You have to stop the machine... But they are locked with special password, try to remember where is the paper with the password"
-//   );
-// }
+function story() {
+  alert(
+    "Oh..no! You started the washing machine and the key from the laundry is inside..."
+  );
+  alert(
+    "You have to stop the machine... But they are locked with special password, try to remember where is the paper with the password"
+  );
+}
